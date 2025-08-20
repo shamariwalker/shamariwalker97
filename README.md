@@ -1,15 +1,17 @@
-# Hi, I'm Shamari 👋
+# PowerShell Toolbox 🛠️
 
-**Service Desk Analyst | IT Support | Cloud Enthusiast**
+This repository contains helpful PowerShell scripts I use for **IT support and system administration**.
 
-- 💻 Skills: Active Directory, Microsoft 365, VPN, Windows 10/11
-- ☁️ Cloud: Azure · Oracle Cloud
-- 🛠 Tools: ServiceNow, Zendesk, PowerShell
-- 🎓 Certs: Security+, AZ-900, AI-900, OCI Foundations
+## 📂 Scripts
 
-## Projects
-- PowerShell scripts for IT support
-- Azure and Oracle Cloud practice labs
-- Service desk SOPs (guides & docs)
+- **New-StandardUser.ps1**  
+  Creates a new Active Directory user with first name, last name, and username.
 
-📧 Contact: shamariwalker977@gmail.com
+## 🛠 Skills Shown
+- Active Directory user management
+- Automating IT support tasks
+- Writing reusable scripts
+
+---
+
+✅ More scripts (password resets, M365 reports, system info) will be added soon.
